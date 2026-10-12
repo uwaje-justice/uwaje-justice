@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Uwaje Justice
 
-<!--
-**uwaje-justice/uwaje-justice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer building web apps from database to user interface.
+I trained through The Odin Project and learn by shipping real projects.
 
-Here are some ideas to get you started:
+## Tech
+- Front end: JavaScript, React, Next.js, HTML5, CSS3, Tailwind CSS
+- Back end: Node.js, Express, EJS, REST APIs
+- Data: Prisma, PostgreSQL
+- Tools: Git, GitHub, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to full stack and remote developer roles.
+
+[LinkedIn](https://www.linkedin.com/in/uwaje-justice)
