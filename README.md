@@ -17,6 +17,7 @@ I trained through [The Odin Project](https://www.theodinproject.com/) and I lear
 
 - Building full stack apps with Next.js, Prisma and PostgreSQL
 - Learning professional practices: testing, clean code, and deployment
+- Applying for internships, freelance roles, and full stack developer roles
 
 ## 🧰 Tech
 
