@@ -1,4 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/171641141?v=4&size=64" alt="Uwaje Justice, Full Stack Web Developer" width="100%" />
+<!-- Add this line after you upload banner.png to this repo:
+<img src="./banner.png" alt="Uwaje Justice, Full Stack Web Developer" width="100%" />
+-->
 
 # Hi, I'm Uwaje Justice 👋
 
@@ -22,11 +24,6 @@ I trained through [The Odin Project](https://www.theodinproject.com/) and I lear
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,postgres,prisma,git,github,python,vercel&perline=8" alt="Tech stack" />
 </p>
 
-- **Front end:** JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS
-- **Back end:** Node.js, Express, REST APIs
-- **Data:** Prisma, PostgreSQL
-- **Tools:** Git, GitHub, Python, Vercel
-
 ## 🚀 Featured projects
 
 | Project | What it does | Tech | Links |
@@ -39,7 +36,3 @@ I trained through [The Odin Project](https://www.theodinproject.com/) and I lear
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=uwaje-justice&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwaje-justice&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
-
-## 📫 Contact
-
-Email: [uwajejusticedev@gmail.com](mailto:uwajejusticedev@gmail.com)
