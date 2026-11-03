@@ -29,10 +29,3 @@ I trained through [The Odin Project](https://www.theodinproject.com/) and I lear
 | Project | What it does | Tech | Links |
 |---|---|---|---|
 | **Mini Drive** | A personal drive where users sign up, create folders, upload files, preview them, and share a folder through a link that expires. Built from The Odin Project's File Uploader. | Express, Prisma, PostgreSQL, Passport.js, Multer, Cloudinary | [Live](https://mini-drive-0.netlify.app/) · [Code](https://github.com/uwaje-justice/mini-drive) |
-
-## 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=uwaje-justice&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwaje-justice&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
