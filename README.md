@@ -1,14 +1,45 @@
-# Hi, I'm Uwaje Justice
+<img src="https://avatars.githubusercontent.com/u/171641141?v=4&size=64" alt="Uwaje Justice, Full Stack Web Developer" width="100%" />
 
-Full Stack Developer building web apps from database to user interface.
-I trained through The Odin Project and learn by shipping real projects.
+# Hi, I'm Uwaje Justice 👋
 
-## Tech
-- Front end: JavaScript, React, Next.js, HTML5, CSS3, Tailwind CSS
-- Back end: Node.js, Express, EJS, REST APIs
-- Data: Prisma, PostgreSQL
-- Tools: Git, GitHub, Python
+**Full Stack Web Developer** building web apps from the database to the user interface.
 
-Open to full stack and remote developer roles.
+I trained through [The Odin Project](https://www.theodinproject.com/) and I learn by shipping projects.
 
-[LinkedIn](https://www.linkedin.com/in/uwaje-justice)
+**Open to full stack and remote developer roles.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-uwaje--justice-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwaje-justice)
+[![Email](https://img.shields.io/badge/Email-uwajejusticedev@gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwajejusticedev@gmail.com)
+
+## 🔨 What I'm working on
+
+- Building full stack apps with Next.js, Prisma and PostgreSQL
+- Learning professional practices: testing, clean code, and deployment
+
+## 🧰 Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,postgres,prisma,git,github,python,vercel&perline=8" alt="Tech stack" />
+</p>
+
+- **Front end:** JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS
+- **Back end:** Node.js, Express, REST APIs
+- **Data:** Prisma, PostgreSQL
+- **Tools:** Git, GitHub, Python, Vercel
+
+## 🚀 Featured projects
+
+| Project | What it does | Tech | Links |
+|---|---|---|---|
+| **Mini Drive** | A personal drive where users sign up, create folders, upload files, preview them, and share a folder through a link that expires. Built from The Odin Project's File Uploader. | Express, Prisma, PostgreSQL, Passport.js, Multer, Cloudinary | [Live](https://mini-drive-0.netlify.app/) · [Code](https://github.com/uwaje-justice/mini-drive) |
+
+## 📊 GitHub stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=uwaje-justice&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwaje-justice&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
+
+## 📫 Contact
+
+Email: [uwajejusticedev@gmail.com](mailto:uwajejusticedev@gmail.com)
